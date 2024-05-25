@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @rakesh7216
+- Hi, I’m RAKESH 👋
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning cse
-- 💞️ I’m looking to collaborate with software developers
-- 📫 How to reach me instagram : ra.kesh.__
+- 👩🏻‍💻 I’m currently learning web developement
+- 🤝🏻 I’m looking to collaborate with website developers
+- How to reach me :
+   <br> 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : ra.kesh.__
+  <br>
+  <a href="www.linkedin.com/in/rakesh-v-0b104230b">
+  <h4>linked in</h4>
+  </a>
+
+  
 
 
 
