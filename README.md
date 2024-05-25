@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web Developement**
 
-- 👯 I’m looking to collaborate on **web developement**
+- 👯 I’m looking to collaborate on **web developers**
 
 - 💬 Ask me about **tech**
 
