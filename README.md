@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rakesh</h1>
-<h3 align="center">👩🏻‍💻 I’m currently learning web developement</h3>
+- 👩🏻‍💻 I’m currently learning web developement
 
 - 🌱 I’m currently learning **web Developement**
 
