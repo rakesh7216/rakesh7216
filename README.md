@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **tech**
 
-- 📫 How to reach me **rakesh2006161@gmail.com**
+- 📫 How to reach me **rakesh200661@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
